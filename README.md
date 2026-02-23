@@ -123,4 +123,4 @@ int main() {
 
 
 ## Result:
- The program is executed successfully.
+ Therefore, the program is executed successfully
